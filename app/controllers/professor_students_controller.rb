@@ -1,5 +1,7 @@
 class ProfessorStudentsController <ApplicationController
-  def index
 
+  def index
+    @professor_students = Professor.find(params[:professor_id]).students
   end
+
 end
