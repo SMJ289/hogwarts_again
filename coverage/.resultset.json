@@ -206,6 +206,8 @@
         "lines": [
           1,
           null,
+          1,
+          null,
           null
         ]
       },
@@ -298,8 +300,24 @@
           1,
           null
         ]
+      },
+      "/Users/steve/turing/2module/classwork/hogwarts_again/app/controllers/professors_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/steve/turing/2module/classwork/hogwarts_again/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1585323088
+    "timestamp": 1585323650
   }
 }
